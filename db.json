@@ -1,0 +1,22 @@
+{
+  "main-categories": [
+    {
+      "id": 101,
+      "creationDate": 1692078119357,
+      "modificationDate": null,
+      "title": "General Knowledge",
+      "text": "Test your knowledge on a wide range of topics, from history and science to literature and current events.",
+      "color": "#279EFF",
+      "icon": "/images/category/general.webp"
+    },
+    {
+      "id": 102,
+      "creationDate": 1692084730096,
+      "modificationDate": null,
+      "title": "Sports and Games",
+      "text": "Cover various sports, athletes, Olympic history, and popular video games in this category.",
+      "color": "#FF8551",
+      "icon": "/images/category/sport.webp"
+    }
+  ]
+}
